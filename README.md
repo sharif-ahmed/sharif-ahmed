@@ -12,4 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharif-ahmed)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharif-ahmed&show_icons=true&count_private=true)  
+
+
 
