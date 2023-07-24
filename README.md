@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is Sharif
 #### I am learning Web Development
+### Love to write code and implement your idea.
 ![I am learning Web Development](https://github.com/sharif-ahmed/sharif-ahmed/blob/main/Screenshot_1.jpg)
 
-Love to write code and implement your idea.
 
-Skills: Android / REACT / JS / HTML / CSS
+
+### Skills: Android / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
