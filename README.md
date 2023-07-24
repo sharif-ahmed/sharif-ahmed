@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Sharif
-#### I am learning Web Development
-### Love to write code and implement your idea.
+### Learning Web Technologies
+#### Love to write code and implement your idea.
+
 ![I am learning Web Development](https://github.com/sharif-ahmed/sharif-ahmed/blob/main/Screenshot_1.jpg)
 
 
